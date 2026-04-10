@@ -2,4 +2,27 @@
     
 <p>Pages containing pseudocode should use the <code>pseudocode</code> tag in their metadata files. This automatically adds a warning to the top of the page, such as the one at the top of this page, which highlights to users that the code in the page is not "real" code.</p>
 
-<p>To include pseudocode on a page, wrap it in a <code>&lt;code&gt;</code> tag without specifying a language.</p>
+<p>To include pseudocode on a page, wrap it in a <code>&lt;code&gt;</code> tag without specifying a language. For example consider the block of pseudocode below:</p>
+
+<pre><code>START
+    SET sum TO 0
+    FOR i FROM 1 TO 10 DO
+        sum = sum + i
+    END FOR
+    PRINT sum
+END
+</code></pre>
+
+This was created in the page using the following code:
+
+<pre><code>&lt;pre&gt;&lt;code&gt;
+START
+    SET sum TO 0
+    FOR i FROM 1 TO 10 DO
+        sum = sum + i
+    END FOR
+    PRINT sum
+END
+&lt;/code&gt;&lt;/pre&gt;</code></pre>
+
+You can also view the raw <code>content.html</code> page for this page <a href="https://github.com/Atomic-Learning/atomic-learning-including-pseudocode/blob/main/content.html" target="_blank" rel="noopener noreferrer">here</a>.
