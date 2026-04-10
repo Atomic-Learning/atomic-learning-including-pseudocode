@@ -12,8 +12,8 @@
     ],
     "duration": 4,
     "prerequisites": [
-        "atomic-learning-pseudocode",
-        "atomic-learning-metadata-file"
+        "atomic-learning-metadata-file",
+        "atomic-learning-pseudocode"
     ],
     "related": [
         "atomic-learning-programming-sequencing"
