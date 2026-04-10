@@ -1,22 +1,20 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: Including Pseudocode in Pages",
+    "slug": "atomic-learning-including-pseudocode",
+    "description": "This page discusses the practicalities of including pseudocode in pages in Atomic Learning including providing appropriate tags.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "pseudocode",
+        "programming"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-pseudocode"
     ],
     "related": [
-        "",
-        ""
+        "atomic-learning-programming-sequencing"
     ]
 }
