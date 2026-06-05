@@ -13,6 +13,7 @@
     "duration": 4,
     "prerequisites": [
         "atomic-learning-metadata-file",
+        "atomic-learning-content-file",
         "atomic-learning-pseudocode",
         "atomic-learning-including-code"
     ],
